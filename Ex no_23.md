@@ -15,6 +15,11 @@ using structure(using array of structure).
 
 ## Program:
 ```
+/*
+C program to store and display the name, id, age and salary of an employee using structure(using array of structure).
+Developed by: Sowjanya A
+RegisterNumber:  212222060250
+*/
 #include<stdio.h> 
 struct employee
 {

@@ -14,6 +14,12 @@ To write a C program to calculate the area of a triangle using pointer.
    
 ## Program:
 ```
+
+/*
+C program to calculate the area of a triangle using pointer.
+Developed by: Sowjanya A
+RegisterNumber:  212222060250
+*/
 #include <stdio.h> 
 int main() { 
     float base, height, area; 

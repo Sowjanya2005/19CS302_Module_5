@@ -1,5 +1,5 @@
 # EX 22 C program to count total number of even elements in an array using calloc().
-## DATE:
+## DATE:05/05/2025
 ## AIM:
 To write a C program to count total number of even elements in an array using calloc().
 

@@ -1,5 +1,5 @@
 # EX 25 C program to check whether a given character is a vowel or consonant using pointer
-## DATE: 05/05/2025
+## DATE: 03/04/2025
 ## AIM:
 To write a C program to check whether a given character is a vowel or consonant using pointer
 
